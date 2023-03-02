@@ -1,7 +1,5 @@
 # This is the code and dataset for ATPfinder
 
-![markdown](https://www.mdeditor.cn/images/logos/markdown.png "markdown")
-
 ## Welcome to ATPfinder, a deep forest-based ATP prediction tool developed by a team from the Chinese University of Hong Kong (Shenzhen)
 
 ATPfinder is a computational framework for identifying anti-tubercular peptides via deep forest architecture with effective feature representation. We also developed a downloadable desktop program for ATPfinder, which is available at https://awi.cuhk.edu.cn/~dbAMP/ATPfinder.html.
